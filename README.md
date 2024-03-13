@@ -8,3 +8,6 @@
 ![Plansza](https://github.com/Pabik14/UNO_Flask/blob/master/readme/deck.png?raw=true)
 ## Karty specjalne
 ![Karty specjalne](https://github.com/Pabik14/UNO_Flask/blob/master/readme/spec.png?raw=true)
+## Uruchomienie
+> pip install flask
+> python app.py
